@@ -1,0 +1,46 @@
+body {
+  font-family: sans-serif;
+  box-sizing: border-box;
+  background-color: white;
+  text-align: center;
+}
+img {
+  vertical-align: middle;
+  max-width: 100%;
+}
+
+.slideshow-container {
+  max-width: 1000px;
+  position: relative;
+  margin: 0 auto;
+}
+
+.numbertext {
+  position: absolute;
+  top: 0;
+  padding: 8px 12px;
+  color: whitesmoke;
+  font-size: 16px;
+}
+
+.text {
+  color: whitesmoke;
+  font-size: 15px;
+  padding: 8px 12px;
+  position: absolute;
+  bottom: 8px;
+  width: 100%;
+  text-align: center;
+}
+
+.dots-container{
+  text-align: center;
+}
+
+.dots{
+  height: 15px;
+  width: 15px;
+  display: inline-block;
+  background-color: #bbb;
+  border-radius: 50%;
+}

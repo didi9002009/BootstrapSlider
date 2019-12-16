@@ -1,2 +1,0 @@
-# BootstrapSlider
-Created with CodeSandbox
