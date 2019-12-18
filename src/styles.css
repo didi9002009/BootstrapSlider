@@ -17,36 +17,36 @@ img {
 
 .numbertext {
   position: absolute;
-  top: 0;
+  top: 10px;
   padding: 8px 12px;
   color: whitesmoke;
-  font-size: 16px;
+  font-size: 20px;
 }
 
 .text {
-  color: whitesmoke;
-  font-size: 15px;
+  color: red;
+  font-size: 50px;
   padding: 8px 12px;
-  position: absolute;
+  position: obsolute;
   bottom: 8px;
   width: 100%;
   text-align: center;
 }
 
-.dots-container{
+.dots-container {
   text-align: center;
 }
 
-.dot{
+.dot {
   height: 15px;
   width: 15px;
   display: inline-block;
   background-color: #bbb;
   border-radius: 50%;
   margin-top: 50px;
-  transition: black 0.6s ease;
+  /* transition: black 0.6s ease; */
 }
 
-.active{
+.active {
   background-color: black;
 }
